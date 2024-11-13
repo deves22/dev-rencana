@@ -3,3 +3,5 @@ Rencana Kedepan :
 2. Flutter
 3. Java
 4. Pyton
+5. Administrasi Kantor
+6. Excel, Photoshop dan Adobe Ilustrator
